@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXXPw1inAO0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flia Zealisboa\\OneDrive\\Documentos\\Paola Lisboa\\miPrimerRepo\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.25\\microsoft.aspnetcore.openapi.8.0.25.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Flia Zealisboa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Newtonsoft.Json\" 12.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
